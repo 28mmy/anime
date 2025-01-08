@@ -241,10 +241,19 @@ body {
 }
 }
 /* ねこ */
-/* .a {
+.a {
   width: 70px;
   height: 100px;
   position: absolute;
   background-color:black;
   border-radius: 50% 50% 20% 20%;
-} */
+  margin-top: 160px;
+  margin-left: 450px;
+}
+.b {
+  width: 35px;
+  height: 46px;
+  position: absolute;
+  background-color: black;
+  clip-path: polygon(0 0, 100% 0, 50% 100%);
+}
